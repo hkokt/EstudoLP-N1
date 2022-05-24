@@ -9,3 +9,4 @@ public class exec09{
                  JOptionPane.showMessageDialog(null,"a soma do quadrado dos dois valores é de "+" "+ resultado);   
     }
 }
+ 
