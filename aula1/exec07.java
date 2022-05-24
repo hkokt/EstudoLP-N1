@@ -13,4 +13,4 @@ public class exec07 {
         JOptionPane.showMessageDialog(null, "Valor não divisível por 2 e 3.");
     }
    }
-}
+} 
