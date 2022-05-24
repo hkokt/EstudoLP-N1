@@ -9,4 +9,4 @@ public class exec04{
             JOptionPane.showMessageDialog(null,y+" * "+x+"="+ tabuada);
         }
     }
-}
+} 
